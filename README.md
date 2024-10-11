@@ -12,7 +12,7 @@ To install the `iracing-ibt-parser`, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/iracing-ibt-parser.git
+   git clone https://github.com/matthias-hampel/iracing-ibt-parser.git
    ```
 2. Navigate to the project directory:
    ```sh
